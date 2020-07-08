@@ -1,4 +1,4 @@
-# EndSemProject
+# Job Portals Analysis
 
 The project is a prototype of a utility that aggregates structured information with analytics included.
 The tool crawls the job portals for relevant information.
